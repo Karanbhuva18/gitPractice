@@ -44,7 +44,7 @@ export default function UserCards() {
     },
     {
       id: "U105",
-      name: "Emma Davis",
+      name: "Bob Williams",
       salary: "$75,000",
       city: "Seattle",
       country: "USA",
@@ -54,7 +54,7 @@ export default function UserCards() {
     },
     {
       id: "U106",
-      name: "Liam Brown",
+      name: "Bob Williams",
       salary: "$65,000",
       city: "Austin",
       country: "USA",
@@ -64,7 +64,7 @@ export default function UserCards() {
     },
     {
       id: "U107",
-      name: "Sophia Miller",
+      name: "Bob Williams",
       salary: "$58,000",
       city: "Dallas",
       country: "USA",
@@ -74,7 +74,7 @@ export default function UserCards() {
     },
     {
       id: "U108",
-      name: "James Wilson",
+      name: "Bob Williams",
       salary: "$72,000",
       city: "Miami",
       country: "USA",
@@ -84,7 +84,7 @@ export default function UserCards() {
     },
     {
       id: "U109",
-      name: "Olivia Martinez",
+      name: "Bob Williams",
       salary: "$68,000",
       city: "Denver",
       country: "USA",
@@ -94,7 +94,7 @@ export default function UserCards() {
     },
     {
       id: "U110",
-      name: "Noah Garcia",
+      name: "Bob Williams",
       salary: "$66,000",
       city: "Phoenix",
       country: "USA",
