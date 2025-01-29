@@ -14,7 +14,7 @@ export default function UserCards() {
     },
     {
       id: "U102",
-      name: "Jane Smith",
+      name: "John Doe",
       salary: "$60,000",
       city: "Los Angeles",
       country: "USA",
@@ -24,7 +24,7 @@ export default function UserCards() {
     },
     {
       id: "U103",
-      name: "Alice Johnson",
+      name: "John Doe",
       salary: "$55,000",
       city: "Chicago",
       country: "USA",
@@ -33,7 +33,7 @@ export default function UserCards() {
       college: "University of Chicago",
     },
     {
-      id: "U104",
+      id: "John Doe",
       name: "Bob Williams",
       salary: "$80,000",
       city: "San Francisco",
