@@ -383,7 +383,7 @@ export default function UserCards() {
                 <span className="label">🌍 Country:</span> {user.country}
               </p>
               <p>
-                <span className="label">📞 Phone:</span> {user.phone}
+                <span className="label">📞 Mobail Number:</span> {user.phone}
               </p>
               <p>
                 <span className="label">🎓 Degree:</span> {user.degree}
