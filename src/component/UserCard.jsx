@@ -366,7 +366,7 @@ export default function UserCards() {
 
   return (
     <div>
-      <h1 className="user-cards-title">User Information</h1>
+      <h1 className="user-cards-title">User List</h1>
       <div className="user-cards-grid">
         {users.map((user) => (
           <div key={user.id} className="user-card">
@@ -374,22 +374,22 @@ export default function UserCards() {
             <p className="user-card-id">ID: {user.id}</p>
             <div className="user-card-details">
               <p>
-                <span className="label">Salary:</span> {user.salary}
+                <span className="label">💰 Salary:</span> {user.salary}
               </p>
               <p>
-                <span className="label">City:</span> {user.city}
+                <span className="label">🏙 City:</span> {user.city}
               </p>
               <p>
-                <span className="label">Country:</span> {user.country}
+                <span className="label">🌍 Country:</span> {user.country}
               </p>
               <p>
-                <span className="label">Phone:</span> {user.phone}
+                <span className="label">📞 Phone:</span> {user.phone}
               </p>
               <p>
-                <span className="label">Degree:</span> {user.degree}
+                <span className="label">🎓 Degree:</span> {user.degree}
               </p>
               <p>
-                <span className="label">College:</span> {user.college}
+                <span className="label">🏫 College:</span> {user.college}
               </p>
             </div>
           </div>
