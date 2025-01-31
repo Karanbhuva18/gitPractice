@@ -1,4 +1,15 @@
 /* Grid container */
+.user-cards-title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
 .user-cards-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
