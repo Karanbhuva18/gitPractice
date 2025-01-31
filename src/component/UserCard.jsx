@@ -374,7 +374,7 @@ export default function UserCards() {
             <p className="user-card-id">ID: {user.id}</p>
             <div className="user-card-details">
               <p>
-                <span className="label">💰 Salary:</span> {user.salary}
+                <span className="label">💰Income:</span> {user.salary}
               </p>
               <p>
                 <span className="label">🏙 City:</span> {user.city}
