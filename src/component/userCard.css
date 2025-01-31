@@ -1,3 +1,10 @@
+.user-title{
+  text-align: center;
+  font-size: 25px;
+  color: blanchedalmond;
+}
+
+
 /* Grid container */
 .user-cards-grid {
     display: grid;
