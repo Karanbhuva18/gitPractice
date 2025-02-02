@@ -320,14 +320,25 @@ export const users = [
     college: "Stanford University",
   },
   {
+    id: "U131",
+    name: "Narendra Modi", // Updated name
+    salary: "$92,000",
+    city: "San Diego",
+    country: "USA",
+    phone: "+1 345 678 901",
+    degree: "Master of Political Science", // Updated degree
+    college: "Harvard University", // Updated college
+  },
+
+  {
     id: "U133",
-    name: "Lucas Mitchell",
+    name: "Donald Trump", // Updated name
     salary: "$78,500",
     city: "Houston",
     country: "USA",
     phone: "+1 567 890 123",
-    degree: "Bachelor of Computer Engineering",
-    college: "Rice University",
+    degree: "Bachelor of Business Administration", // Updated degree
+    college: "Wharton School of the University of Pennsylvania", // Updated college
   },
   {
     id: "U134",
