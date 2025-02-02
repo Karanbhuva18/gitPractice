@@ -9,10 +9,10 @@ export default function UserCards() {
       <div className="user-cards-grid">
         {users.map((user) => (
           <div key={user.id} className="user-card">
-            {/* Profile Picture (Random Avatar) */}
+            {/* Profile Picture (Online Image) */}
             <div className="user-avatar">
               <img
-                src={`https://i.pravatar.cc/150?img=${user.id}`}
+                src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
                 alt="User Avatar"
               />
             </div>
