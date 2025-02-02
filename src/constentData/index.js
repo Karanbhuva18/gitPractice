@@ -339,35 +339,5 @@ export const users = [
     phone: "+1 567 890 123",
     degree: "Bachelor of Business Administration", // Updated degree
     college: "Wharton School of the University of Pennsylvania", // Updated college
-  },
-  {
-    id: "U134",
-    name: "Charlotte Harris",
-    salary: "$75,500",
-    city: "Philadelphia",
-    country: "USA",
-    phone: "+1 678 901 234",
-    degree: "Master of Marketing",
-    college: "University of Pennsylvania",
-  },
-  {
-    id: "U135",
-    name: "Benjamin Scott",
-    salary: "$94,000",
-    city: "Charlotte",
-    country: "USA",
-    phone: "+1 789 012 345",
-    degree: "PhD in Physics",
-    college: "University of North Carolina",
-  },
-  {
-    id: "U136",
-    name: "Zoe Perez",
-    salary: "$71,000",
-    city: "Orlando",
-    country: "USA",
-    phone: "+1 890 123 456",
-    degree: "Master of Public Health",
-    college: "University of Central Florida",
-  },
+  }
 ];
