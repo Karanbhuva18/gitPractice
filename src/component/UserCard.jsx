@@ -12,7 +12,7 @@ export default function UserCards() {
             {/* Profile Picture (Online Image) */}
             <div className="user-avatar">
               <img
-                src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+                src="https://cdn-icons-png.flaticon.com/512/847/847969.png"
                 alt="User Avatar"
               />
             </div>
